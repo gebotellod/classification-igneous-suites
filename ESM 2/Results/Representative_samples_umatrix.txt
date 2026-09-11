@@ -1,7 +1,0 @@
-BMU 225: ChAlk, ChAlk
-BMU 244: ChAlk
-BMU 245: ChAlk, ChAlk, ChAlk, ChAlk, ChAlk
-BMU 264: ChAlk, ChAlk, ChAlk
-BMU 327: ChAlk
-BMU 347: ChAlk
-BMU 348: ChAlk
