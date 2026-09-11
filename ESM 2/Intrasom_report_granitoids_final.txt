@@ -1,0 +1,37 @@
+IntraSOM Training Report
+Project: granitoids_final
+
+Input Data:
+Features: 22
+Samples: 771
+Cells: 16962
+
+--------------------------------------------------
+Initialization Parameters:
+
+Map Size: 20 columns and 20 lines
+Training Polygon: Toroid
+Lattice: Hexagonal
+Normalization: Variance
+Initialization: Randomic
+Neighborhood Function: Gaussian
+Number of Labels: 0
+
+--------------------------------------------------
+Training Parameters:
+
+Rough Training:
+Size: 16
+Initial Ratio: 7.0
+Final Ratio: 1.75
+
+Finetube Training:
+Size: 26
+Initial Ratio: 2.5
+Final Ratio: 1
+
+--------------------------------------------------
+Training Evaluation:
+
+Quantization Error: 1.6072
+Topographic Error: 0.0597
