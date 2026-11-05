@@ -1,6 +1,6 @@
 # Beyond bivariate plots: A machine learning workflow for multivariate classification of igneous suites in the northeastern Borborema Province, Brazil
 
-This repository contains the electronic supplementary material (Online Resources 2 and 3) accompanying the manuscript submitted to *Earth Science Informatics*.
+This repository contains the electronic supplementary material (Online Resources 2 and 3) accompanying the article submitted to *Earth Science Informatics*.
 
 **Authors:** Botello, G. E.\*, Hollanda, M. H. B. M., Carneiro, C. C., Marques, G. R., and Lucas, D.
 \* Corresponding author — Instituto de Geociências, Universidade de São Paulo, SP, Brazil — botello@usp.br
